@@ -1,4 +1,5 @@
 #!/bin/bash
+#encoding:UTF-8
 #检测硬盘硬件情况脚本
 #2015/9/9
 #lianglian8866@163.com
